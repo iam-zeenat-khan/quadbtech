@@ -32,7 +32,7 @@ To get started with this project, clone the repository and follow the installati
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/iam-zeenat-khan/quadbtech-todo
+git clone https://github.com/iam-zeenat-khan/quadbtech
 cd react-todo-app
 
 
