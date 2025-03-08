@@ -6,13 +6,13 @@ Check out the live demo :[(https://quadbtech-assign.netlify.app/)]
 
 A simple and responsive Todo application built with React, Vite, Tailwind CSS, React Icons, and Redux Toolkit.
 
-🔑 Authentication Details
+##🔑 Authentication Details
 Username Field: Accepts text input.
 Password Field: Accepts password input (masked for security).
 Mock Credentials (For Testing):
 Username: test
 Password: password
-The authentication is managed entirely in the frontend using Redux.
+The authentication is managed entirely in the frontend using Redux.<br/>
 
 🚀 How It Works
 The user enters their credentials and clicks the "Login" button.
