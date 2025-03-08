@@ -5,6 +5,18 @@
 Check out the live demo :[(https://quadbtechassign.netlify.app/)]
 
 A simple and responsive Todo application built with React, Vite, Tailwind CSS, React Icons, and Redux Toolkit.
+🔑 Authentication Details
+Username Field: Accepts text input.
+Password Field: Accepts password input (masked for security).
+Mock Credentials (For Testing):
+Username: test
+Password: password
+The authentication is managed entirely in the frontend using Redux.
+🚀 How It Works
+The user enters their credentials and clicks the "Login" button.
+If the username and password match the mock credentials, Redux updates the authentication state.
+The To-Do list becomes visible.
+The user can log out, which resets the authentication state and hides the To-Do list.
 
 ## Table of Contents
 
