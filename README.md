@@ -8,9 +8,9 @@ A simple and responsive Todo application built with React, Vite, Tailwind CSS, R
 
 🔑 Authentication Details
 Username Field: Accepts text input.
-Password Field: Accepts password input (masked for security).
+Password Field: Accepts password input (masked for security).<br/>
 Mock Credentials (For Testing):<br/>
-Username: test
+Username: test<br/>
 Password: password<br/>
 The authentication is managed entirely in the frontend using Redux.<br/>
 
